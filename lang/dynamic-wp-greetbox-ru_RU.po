@@ -1,0 +1,436 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: dynamic-wp-greetbox\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-06-09 13:02-0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Fat Cow <zhr@tut.by>\n"
+"Language-Team: Fat Cow <zhr@tut.by>\n"
+"MIME-Version: 1.0.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: Russian\n"
+"X-Poedit-Country: RUSSIAN FEDERATION\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: options-custom.php:6
+msgid "Active Greeting Messages"
+msgstr "Активное Greeting сообщение"
+
+#: options-custom.php:9
+#: options-custom.php:43
+msgid "Referrer"
+msgstr "Referrer"
+
+#: options-custom.php:10
+#: options-custom.php:44
+msgid "Icon"
+msgstr "Иконка"
+
+#: options-custom.php:11
+#: options-custom.php:45
+msgid "Message"
+msgstr "Сообщение"
+
+#: options-custom.php:12
+#: options-custom.php:46
+msgid "Action"
+msgstr "Действие"
+
+#: options-custom.php:16
+#: options-custom.php:50
+msgid "Add new greeting message"
+msgstr "Добавить новое приветствие"
+
+#: options-custom.php:40
+msgid "Inactive Greeting Messages"
+msgstr "Неактивные приветствие"
+
+#: options-exclude.php:15
+#: dynamic-wp-greetbox.php:1738
+msgid "Exclusion Rules"
+msgstr "Правила исключения"
+
+#: options-exclude.php:16
+msgid "List referral URLs that you do not want to show a greeting message to (line delimited)."
+msgstr "Список реферал-URL, которые не должны отображать приветствие."
+
+#: options-exclude.php:18
+msgid "Treat each line as a regular expression"
+msgstr "Читать каждую линию как регулярное выражение"
+
+#: options-exclude.php:22
+#: options-generic.php:260
+msgid "Update Options"
+msgstr "Обновить настройки"
+
+#: options-generic.php:3
+msgid "All of your custom messages will also be reset.  Are you sure you want to reset all settings?"
+msgstr "Все ваши сообщения тоже будут сброшены. Вы уверены, что хотите сделать это?"
+
+#: options-generic.php:133
+msgid "Hide"
+msgstr "Скрыть"
+
+#: options-generic.php:138
+msgid "Show"
+msgstr "Показать"
+
+#: options-generic.php:163
+msgid "Support this plugin!"
+msgstr "Поддержать этот плагин!"
+
+#: options-generic.php:165
+msgid "Display \"Powered by Wp Greetings\" link at the bottom right corner of the greeting message"
+msgstr "Показывать ссылку \"Powered by Wp Greetings\" в правом нижнем углу окна приветствия "
+
+#: options-generic.php:169
+msgid "Do not display \"Powered by Wp Greetings\" link.  I will <a href=\"http://111waystomakemoney.com/donate\">donate</a> and/or write about this plugin"
+msgstr "Не отображать ссылку \"Powered by Wp Greetings\".  Я <a href=\"http://111waystomakemoney.com/donate\">пожертвую</a> и/или напишу об этом плагине"
+
+#: options-generic.php:172
+#: dynamic-wp-greetbox.php:1739
+msgid "General Configuration"
+msgstr "Главные настройки"
+
+#: options-generic.php:174
+msgid "Automatically show greeting message on posts"
+msgstr "Автоматически показывать поздравительные послания в посте "
+
+#: options-generic.php:176
+#: options-generic.php:181
+msgid "uncheck for"
+msgstr "снять отметку для"
+
+#: options-generic.php:176
+#: options-generic.php:181
+msgid "manual insertion"
+msgstr "ручная вставка"
+
+#: options-generic.php:179
+msgid "Automatically show greeting message on pages"
+msgstr "Автоматически показывать поздравительные послания на страницах"
+
+#: options-generic.php:183
+msgid "Allow users to close the greeting message"
+msgstr "Разрешать пользователям закрывать поздравительное сообщение"
+
+#: options-generic.php:184
+msgid "Have icon link open a new browser window (same as target=\"_blank\")"
+msgstr "По нажатию на значокоткроется новое окно браузера (так же, как target=\"_blank\")"
+
+#: options-generic.php:185
+msgid "Position greeting message"
+msgstr "Расположение поздравления"
+
+#: options-generic.php:187
+#: options-generic.php:199
+msgid "before"
+msgstr "до"
+
+#: options-generic.php:188
+#: options-generic.php:200
+msgid "after"
+msgstr "после"
+
+#: options-generic.php:190
+msgid "the post/page."
+msgstr "поста/страницы"
+
+#: options-generic.php:191
+msgid "Related Post Options"
+msgstr "Настройки Related Post"
+
+#: options-generic.php:193
+msgid "Detect keywords from search engines referrers and display related posts"
+msgstr "Определить ключевые слова из рефереров  поисковых систем и отображать соответствующие должности"
+
+#: options-generic.php:198
+msgid "Position related posts"
+msgstr "Позиция соответствующих постов"
+
+#: options-generic.php:201
+msgid "the greeting message."
+msgstr "поздравление (я)."
+
+#: options-generic.php:204
+msgid "Show post excerpt in related posts"
+msgstr "Показывать выдержки в связанных постах"
+
+#: options-generic.php:207
+msgid "Expand related posts by default"
+msgstr "Разворачивать связанные посты по умолчанию"
+
+#: options-generic.php:210
+msgid "Limit related posts to "
+msgstr "Ограничить связанные посты"
+
+#: options-generic.php:210
+msgid "posts"
+msgstr "постов"
+
+#: options-generic.php:212
+msgid "Limit related post excerpts to"
+msgstr "Ограничить выдержку связанных постов до"
+
+#: options-generic.php:212
+msgid "words"
+msgstr "слов"
+
+#: options-generic.php:216
+#: options-generic.php:268
+msgid "Advanced Options"
+msgstr "Расширенные настройки"
+
+#: options-generic.php:218
+msgid "Enable compatibility with cache plugins"
+msgstr "Включить совместимость плагина с кэшем"
+
+#: options-generic.php:218
+msgid "If check, Wp Greetings will use Javascript to load the greeting message"
+msgstr "Если отмечено, Wp Greetings будет использовать Javascript для загрузки поздравительных сообщений"
+
+#: options-generic.php:221
+#: options-generic.php:224
+msgid "Enable"
+msgstr "Включить"
+
+#: options-generic.php:221
+msgid "uncheck to manually manage your own CSS"
+msgstr "снять для ручной настройки CSS"
+
+#: options-generic.php:224
+msgid "and"
+msgstr "и"
+
+#: options-generic.php:224
+msgid "uncheck to manually manage your own JS"
+msgstr "снять для ручной настройки JS"
+
+#: options-generic.php:227
+msgid "Your RSS feed URL. (replaces [[rss-link]] in greeting messages with this)"
+msgstr "Ваш URL RSS-канала. (заменяет [[RSS-ссылки]] в поздравительных сообщениях)"
+
+#: options-generic.php:231
+msgid "Your \"Subscribe via Email\" URL. (replaces [[email-link]] in greeting messages this)"
+msgstr "Ваша ссылка на \"Подписка по Email\". (заменяет [[email-link]] в поздравлениях)"
+
+#: options-generic.php:235
+msgid "HTML code to display before the greeting box."
+msgstr "HTML-код, который отображается до поздравления."
+
+#: options-generic.php:239
+msgid "HTML code to display after the greeting box."
+msgstr "HTML-код, который отображается после поздравления."
+
+#: options-generic.php:243
+msgid "HTML code to display before the image in the greeting box."
+msgstr "HTML-код, который отображается до изображения в поздравлении."
+
+#: options-generic.php:247
+msgid "HTML code to display after the image in the greeting box."
+msgstr "HTML-код, который отображается после изображения в поздравлении."
+
+#: options-generic.php:251
+msgid "HTML code to display before the text in the greeting box."
+msgstr "HTML-код, который отображается до текста в поздравлении."
+
+#: options-generic.php:255
+msgid "HTML code to display after the text in the greeting box."
+msgstr "HTML-код, который отображается до текста в поздравлении."
+
+#: options-generic.php:264
+msgid "Upgrade Options"
+msgstr "Обновить настройки"
+
+#: options-generic.php:267
+msgid "Reset ALL Options"
+msgstr "Сбросить ВСЕ настройки"
+
+#: options-import-export.php:3
+msgid "All of your current Wp Greetings options will be overwritten by the imported value.  Are you sure you want to overwrite all settings?"
+msgstr "Все ваши текущие настройки Wp Greetings будут перезаписаны на импортируемые. Вы уверены, что хотите переписать все настройки?"
+
+#: options-import-export.php:12
+msgid "Export"
+msgstr "Экспорт"
+
+#: options-import-export.php:15
+msgid "This functionality will dump your entire Wp Greetings options into a file."
+msgstr "Эта функция сделает снимок ваших настроек Wp Greetings в файл."
+
+#: options-import-export.php:17
+msgid "Export Options"
+msgstr "Экспорт настроек"
+
+#: options-import-export.php:21
+msgid "Import"
+msgstr "Импорт"
+
+#: options-import-export.php:27
+msgid "This functionality will restore your entire Wp Greetings options from a file.<br/><strong>Make sure you've done an export and backup the exported file before you try this!</strong>"
+msgstr "Эта функция сделает восстановление ваших настроек Wp Greetings из файла.<br/><strong>Убедитесь, что вы сделали экспорт и резервное копирование экспортируемого файла, прежде чем вы попытаетесь это сделать!</strong>"
+
+#: options-import-export.php:33
+msgid "Import Options"
+msgstr "Импорт настроек"
+
+#: dynamic-wp-greetbox.php:52
+msgid "Wp Greetings requires WordPress 2.6 or newer. <a href=\"http://codex.wordpress.org/Upgrading_WordPress\">Please update!</a>"
+msgstr "Wp Greetings требует WordPress 2.6 или новее. <a href=\"http://codex.wordpress.org/Upgrading_WordPress\">Обновитесь!</a>"
+
+#: dynamic-wp-greetbox.php:411
+msgid "<div class=\"updated fade\"><p>You are using WordPress version "
+msgstr "<div class=\"updated fade\"><p>Вы используете версию WordPress"
+
+#: dynamic-wp-greetbox.php:413
+msgid ".  Wp Greetings recommends that you use WordPress 2.6 or newer.  <a href=\"http://codex.wordpress.org/Upgrading_WordPress\">Please update!</a></p></div>"
+msgstr ". Wp Greetings требует WordPress 2.6 или новее. <a href=\"http://codex.wordpress.org/Upgrading_WordPress\">Обновитесь!</a></p></div>"
+
+#: dynamic-wp-greetbox.php:419
+msgid "<div class=\"updated fade\"><p>Wp Greetings options have been upgraded.</p></div>"
+msgstr "<div class=\"updated fade\"><p>Настройки Wp Greetings были обновлены.</p></div>"
+
+#: dynamic-wp-greetbox.php:662
+#: dynamic-wp-greetbox.php:701
+msgid "Activate"
+msgstr "Активация"
+
+#: dynamic-wp-greetbox.php:667
+#: dynamic-wp-greetbox.php:706
+msgid "Deactivate"
+msgstr "Деактивация"
+
+#: dynamic-wp-greetbox.php:681
+#: dynamic-wp-greetbox.php:720
+msgid "Edit"
+msgstr "Редактировать"
+
+#: dynamic-wp-greetbox.php:721
+msgid "Are you sure you want to delete?"
+msgstr "Вы уверены, что хотите удалить?"
+
+#: dynamic-wp-greetbox.php:721
+msgid "Delete"
+msgstr "Удалить"
+
+#: dynamic-wp-greetbox.php:1051
+msgid "You were searching for"
+msgstr "Вы искали"
+
+#: dynamic-wp-greetbox.php:1052
+msgid "Posts relating to"
+msgstr "Пост связан с"
+
+#: dynamic-wp-greetbox.php:1054
+msgid "See posts relating to your search &#187;"
+msgstr "См. посты, связанные с поиском &#187;"
+
+#: dynamic-wp-greetbox.php:1055
+msgid "&#171; Hide related posts"
+msgstr "&#171; Скрыть связанные посты"
+
+#: dynamic-wp-greetbox.php:1077
+msgid "Powered by Wp Greetings"
+msgstr "Powered by Wp Greetings"
+
+#: dynamic-wp-greetbox.php:1311
+msgid "Permanent Link to:"
+msgstr "Постоянная ссылка на:"
+
+#: dynamic-wp-greetbox.php:1494
+msgid "Wp Greetings options updated."
+msgstr "Настройки Wp Greetings обновлены."
+
+#: dynamic-wp-greetbox.php:1498
+msgid "Wp Greetings options upgraded."
+msgstr "Настройки Wp Greetings обновлены."
+
+#: dynamic-wp-greetbox.php:1502
+msgid "Wp Greetings options have been reset."
+msgstr "Настройки Wp Greetings сброшены."
+
+#: dynamic-wp-greetbox.php:1506
+msgid "Wp Greetings options imported."
+msgstr "Настройки Wp Greetings импортированы."
+
+#: dynamic-wp-greetbox.php:1510
+msgid "Wp Greetings options import failed!"
+msgstr "Импорт настроек Wp Greetings завершен неудачно."
+
+#: dynamic-wp-greetbox.php:1514
+msgid "Did not receive any file to be imported.  Wp Greetings options import failed!"
+msgstr "Не получены файлы, которые должны быть импортированы. Ошибка импорта настроек Wp Greetings!"
+
+#: dynamic-wp-greetbox.php:1518
+msgid "Found syntax errors in file being imported.  Wp Greetings options import failed!"
+msgstr "Найдены ошибки в синтаксисе файла импорта. Ошибка импорта настроек Wp Greetings!"
+
+#: dynamic-wp-greetbox.php:1607
+#: dynamic-wp-greetbox.php:1643
+#: dynamic-wp-greetbox.php:1674
+msgid "Continue to display greeting message until user first closes it (overrides visitor timeout if checked)"
+msgstr "Продолжайте показывать приветствие до тех пор, пока первый пользователь не закроет его (таймаут переопределяет посетитель при проверке)"
+
+#: dynamic-wp-greetbox.php:1608
+#: dynamic-wp-greetbox.php:1644
+#: dynamic-wp-greetbox.php:1676
+msgid "Visitor Timeout (minutes)"
+msgstr "Таймаут гостя (в минутах)"
+
+#: dynamic-wp-greetbox.php:1610
+#: dynamic-wp-greetbox.php:1646
+#: dynamic-wp-greetbox.php:1694
+msgid "Greeting Icon (optional)"
+msgstr "Поздравительная иконка (опционально)"
+
+#: dynamic-wp-greetbox.php:1612
+#: dynamic-wp-greetbox.php:1648
+#: dynamic-wp-greetbox.php:1696
+msgid "Greeting Icon Link (optional)"
+msgstr "Ссылка на поздравительную иконку (опционально)"
+
+#: dynamic-wp-greetbox.php:1614
+#: dynamic-wp-greetbox.php:1650
+#: dynamic-wp-greetbox.php:1698
+msgid "Greeting message"
+msgstr "Поздравительное сообщение"
+
+#: dynamic-wp-greetbox.php:1618
+msgid "Add"
+msgstr "Добавить"
+
+#: dynamic-wp-greetbox.php:1619
+#: dynamic-wp-greetbox.php:1654
+#: dynamic-wp-greetbox.php:1702
+msgid "Cancel"
+msgstr "Отмена"
+
+#: dynamic-wp-greetbox.php:1640
+msgid "Referrer URL"
+msgstr "Referrer URL"
+
+#: dynamic-wp-greetbox.php:1653
+#: dynamic-wp-greetbox.php:1701
+msgid "Save"
+msgstr "Сохранить"
+
+#: dynamic-wp-greetbox.php:1735
+msgid "Wp Greetings Options"
+msgstr "Настройки Wp Greetings"
+
+#: dynamic-wp-greetbox.php:1737
+msgid "Greeting Messages"
+msgstr "Поздравительные сообщения"
+
+#: dynamic-wp-greetbox.php:1740
+msgid "Import/Export"
+msgstr "Импорт/Экспорт"
+
+#: dynamic-wp-greetbox.php:1741
+msgid "Documentation"
+msgstr "Документация"
+

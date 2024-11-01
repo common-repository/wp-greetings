@@ -1,0 +1,534 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Wp Greetings ne Shqip\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-06-09 13:02-0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Romeo Shuka | http://www.romeolab.com/ <webmaster@romeolab.com>\n"
+"MIME-Version: 1.0.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: Shqip\n"
+"X-Poedit-Country: ALBANIA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: options-custom.php:6
+#@ dynamic-wp-greetbox
+msgid "Active Greeting Messages"
+msgstr "Aktivizo mesazhet e përshëndetjes"
+
+#: options-custom.php:9
+#: options-custom.php:43
+#@ dynamic-wp-greetbox
+msgid "Referrer"
+msgstr "Referuesi"
+
+#: options-custom.php:10
+#: options-custom.php:44
+#@ dynamic-wp-greetbox
+msgid "Icon"
+msgstr "Ikona"
+
+#: options-custom.php:11
+#: options-custom.php:45
+#@ dynamic-wp-greetbox
+msgid "Message"
+msgstr "Mesazhi"
+
+#: options-custom.php:12
+#: options-custom.php:46
+#@ dynamic-wp-greetbox
+msgid "Action"
+msgstr "Aksioni"
+
+#: options-custom.php:16
+#: options-custom.php:50
+#@ dynamic-wp-greetbox
+msgid "Add new greeting message"
+msgstr "Shto një mesazh të ri mirëseardhjeje"
+
+#: options-custom.php:40
+#@ dynamic-wp-greetbox
+msgid "Inactive Greeting Messages"
+msgstr "Mesazhet e mirëseardhjes inaktive"
+
+#: options-exclude.php:15
+#: dynamic-wp-greetbox.php:1794
+#@ dynamic-wp-greetbox
+msgid "Exclusion Rules"
+msgstr "Rregulla përjashtimi"
+
+#: options-exclude.php:16
+#@ dynamic-wp-greetbox
+msgid "List referral URLs that you do not want to show a greeting message to (line delimited)."
+msgstr "Lista e URL-ve referuese për të cilat nuk dëshiron që të shfaqet mesazhi i mirëseardhjes (një për rrjesht)"
+
+#: options-exclude.php:18
+#@ dynamic-wp-greetbox
+msgid "Treat each line as a regular expression"
+msgstr "Llogarit secilin rrjesht si një shprehje të rregullt"
+
+#: options-exclude.php:22
+#: options-generic.php:268
+#@ dynamic-wp-greetbox
+msgid "Update Options"
+msgstr "Azhorno opsionet"
+
+#: options-generic.php:3
+#@ dynamic-wp-greetbox
+msgid "All of your custom messages will also be reset.  Are you sure you want to reset all settings?"
+msgstr "Të gjithë mesazhet e personalizuar do të fshihen. Je i sigurtë që kërkon të kthesh opsionet e fillimit?"
+
+#: options-generic.php:133
+#@ dynamic-wp-greetbox
+msgid "Hide"
+msgstr "Fsheh"
+
+#: options-generic.php:138
+#@ dynamic-wp-greetbox
+msgid "Show"
+msgstr "Trego"
+
+#: options-generic.php:168
+#@ dynamic-wp-greetbox
+msgid "Support this plugin!"
+msgstr "Mbështet këtë plugin!"
+
+#: options-generic.php:170
+#@ dynamic-wp-greetbox
+msgid "Display \"Powered by Wp Greetings\" link at the bottom right corner of the greeting message"
+msgstr "Trego poshtë djathtas mesazhit të mirëseardhjes linkun \"Powered by Wp Greetings\""
+
+#: options-generic.php:174
+#@ dynamic-wp-greetbox
+msgid "Do not display \"Powered by Wp Greetings\" link.  I will <a href=\"http://111waystomakemoney.com/donate\">donate</a> and/or write about this plugin"
+msgstr "Mos trego linkun \"Powered by Wp Greetings\".  Do të bëj  <a href=\"http://111waystomakemoney.com/donate\">një dhurim parash</a> edhe/ose do të shkruaj një artikull mbi këtë plugin"
+
+#: options-generic.php:177
+#: dynamic-wp-greetbox.php:1795
+#@ dynamic-wp-greetbox
+msgid "General Configuration"
+msgstr "Konfigurimi gjeneral"
+
+#: options-generic.php:179
+#@ dynamic-wp-greetbox
+msgid "Automatically show greeting message on posts"
+msgstr "Trego automatikisht mesazhin e mirëseardhjes në artikujt"
+
+#: options-generic.php:184
+#@ dynamic-wp-greetbox
+msgid "Automatically show greeting message on pages"
+msgstr "Trego mesazhin e mirëseardhjes në faqet"
+
+#: options-generic.php:188
+#@ dynamic-wp-greetbox
+msgid "Allow users to close the greeting message"
+msgstr "Jepi mundësinë përdoruesve të mbyllin mesazhin e mirëseardhjes"
+
+#: options-generic.php:189
+#@ dynamic-wp-greetbox
+msgid "Have icon link open a new browser window (same as target=\"_blank\")"
+msgstr "Ikona me linkun hapës në një dritare të re të shfletuesit (njësoj si atributi target=\"_blank\")"
+
+#: options-generic.php:190
+#@ dynamic-wp-greetbox
+msgid "Position greeting message"
+msgstr "Pozicioni i mesazhit të mirëseardhjes"
+
+#: options-generic.php:192
+#: options-generic.php:204
+#@ dynamic-wp-greetbox
+msgid "before"
+msgstr "sipër"
+
+#: options-generic.php:193
+#: options-generic.php:205
+#@ dynamic-wp-greetbox
+msgid "after"
+msgstr "poshtë"
+
+#: options-generic.php:195
+#@ dynamic-wp-greetbox
+msgid "the post/page."
+msgstr "artikull/faqe"
+
+#: options-generic.php:196
+#@ dynamic-wp-greetbox
+msgid "Related Post Options"
+msgstr "Opsionet e artikujve të ngjashëm"
+
+#: options-generic.php:198
+#@ dynamic-wp-greetbox
+msgid "Detect keywords from search engines referrers and display related posts"
+msgstr "Ndiq fjalët kyce prezente në motorrët e kërkimit edhe trego artikujt e ngjashëm"
+
+#: options-generic.php:203
+#@ dynamic-wp-greetbox
+msgid "Position related posts"
+msgstr "Pozicioni i artikujve të ngjashëm"
+
+#: options-generic.php:206
+#@ dynamic-wp-greetbox
+msgid "the greeting message."
+msgstr "mesazhi i mirëseardhjes."
+
+#: options-generic.php:209
+#@ dynamic-wp-greetbox
+msgid "Show post excerpt in related posts"
+msgstr "Trego përmbledhjen për artikujt e ngjashëm"
+
+#: options-generic.php:212
+#@ dynamic-wp-greetbox
+msgid "Expand related posts by default"
+msgstr "Përhap artikujt e ngjashëm (default)"
+
+#: options-generic.php:215
+#@ dynamic-wp-greetbox
+msgid "Limit related posts to "
+msgstr "Kufizo numrin e artikujve të ngjashëm në"
+
+#: options-generic.php:215
+#@ dynamic-wp-greetbox
+msgid "posts"
+msgstr "artikuj"
+
+#: options-generic.php:217
+#@ dynamic-wp-greetbox
+msgid "Limit related post excerpts to"
+msgstr "Kufizo përmbajtjen e artikujve të ngjashëm në"
+
+#: options-generic.php:217
+#@ dynamic-wp-greetbox
+msgid "words"
+msgstr "fjalë"
+
+#: options-generic.php:221
+#: options-generic.php:276
+#@ dynamic-wp-greetbox
+msgid "Advanced Options"
+msgstr "Opsione të avancuara"
+
+#: options-generic.php:223
+#@ dynamic-wp-greetbox
+msgid "Enable compatibility with cache plugins"
+msgstr "Aktivizo pajtueshmërine më pluginet e cache"
+
+#: options-generic.php:223
+#@ dynamic-wp-greetbox
+msgid "If check, Wp Greetings will use Javascript to load the greeting message"
+msgstr "nëse opsioni është i aktivizuar, do të përdoret Javascript për të hapur mesazhin e mirëseardhjes"
+
+#: options-generic.php:229
+#: options-generic.php:232
+#@ dynamic-wp-greetbox
+msgid "Enable"
+msgstr "Aktivizo"
+
+#: options-generic.php:229
+#@ dynamic-wp-greetbox
+msgid "uncheck to manually manage your own CSS"
+msgstr "c'selekto për të menaxhuar manualisht CSS tënde personale"
+
+#: options-generic.php:232
+#@ dynamic-wp-greetbox
+msgid "and"
+msgstr "dhe"
+
+#: options-generic.php:232
+#@ dynamic-wp-greetbox
+msgid "uncheck to manually manage your own JS"
+msgstr "c'selekto për të menaxhuar manualisht JS tënde"
+
+#: options-generic.php:235
+#@ dynamic-wp-greetbox
+msgid "Your RSS feed URL. (replaces [[rss-link]] in greeting messages with this)"
+msgstr "URL-ja e RSS feed-it tënd. (zëvendëson [[rss-link]] në mesazhet e mirëseardhjes me këtë këtu)"
+
+#: options-generic.php:239
+#@ dynamic-wp-greetbox
+msgid "Your \"Subscribe via Email\" URL. (replaces [[email-link]] in greeting messages this)"
+msgstr "URL-ja e \"Abonohu me Emaill\". (zëvendëson [[email-link]] me mesazhe mirëseardhjeje si ky)"
+
+#: options-generic.php:243
+#@ dynamic-wp-greetbox
+msgid "HTML code to display before the greeting box."
+msgstr "Kodi HTML për tu treguar përpara mesazhit të mirëseardhjes."
+
+#: options-generic.php:247
+#@ dynamic-wp-greetbox
+msgid "HTML code to display after the greeting box."
+msgstr "Kodi HTML për tu treguar mbas mesazhit të mirëseardhjes."
+
+#: options-generic.php:251
+#@ dynamic-wp-greetbox
+msgid "HTML code to display before the image in the greeting box."
+msgstr "Kodi HTML për tu treguar përpara imazhit të mesazhit të mirëseardhjes."
+
+#: options-generic.php:255
+#@ dynamic-wp-greetbox
+msgid "HTML code to display after the image in the greeting box."
+msgstr "Kodi HTML për tu treguar pas imazhit të mesazhit të mirëseardhjes."
+
+#: options-generic.php:259
+#@ dynamic-wp-greetbox
+msgid "HTML code to display before the text in the greeting box."
+msgstr "Kodi HTML për tu treguar para tekstit të mesazhit të mirëseardhjes."
+
+#: options-generic.php:263
+#@ dynamic-wp-greetbox
+msgid "HTML code to display after the text in the greeting box."
+msgstr "Kodi HTML për tu treguar pas tekstit të mesazhit të mirëseardhjes."
+
+#: options-generic.php:272
+#@ dynamic-wp-greetbox
+msgid "Upgrade Options"
+msgstr "Azhorno opsionet"
+
+#: options-generic.php:275
+#@ dynamic-wp-greetbox
+msgid "Reset ALL Options"
+msgstr "Rikthe të GJITHA opsionet"
+
+#: options-import-export.php:3
+#@ dynamic-wp-greetbox
+msgid "All of your current Wp Greetings options will be overwritten by the imported value.  Are you sure you want to overwrite all settings?"
+msgstr "Të gjithë opsionet e vendosura të Wp Greetings do të mbishkruhen me vlera të importuara. Je i sigurte që don të mbishkruash impostimet?"
+
+#: options-import-export.php:12
+#@ dynamic-wp-greetbox
+msgid "Export"
+msgstr "Eksporto"
+
+#: options-import-export.php:15
+#@ dynamic-wp-greetbox
+msgid "This functionality will dump your entire Wp Greetings options into a file."
+msgstr "Ky funksion do të vendosi në një dokument të gjithë data e Wp Greetings në një dokument."
+
+#: options-import-export.php:17
+#@ dynamic-wp-greetbox
+msgid "Export Options"
+msgstr "Eksporto opsionet"
+
+#: options-import-export.php:21
+#@ dynamic-wp-greetbox
+msgid "Import"
+msgstr "Importo"
+
+#: options-import-export.php:27
+#@ dynamic-wp-greetbox
+msgid "This functionality will restore your entire Wp Greetings options from a file.<br/><strong>Make sure you've done an export and backup the exported file before you try this!</strong>"
+msgstr "Ky funksion do të rikthej të gjithë opsionet e Wp Greetings. <br/><strong>Sigurohu që ti ke eksportuar apo ke bër Backup përpara se të vazhdosh!</strong>"
+
+#: options-import-export.php:33
+#@ dynamic-wp-greetbox
+msgid "Import Options"
+msgstr "Importo opsionet"
+
+#: dynamic-wp-greetbox.php:423
+#@ dynamic-wp-greetbox
+msgid "<div class=\"updated fade\"><p>You are using WordPress version "
+msgstr "<div class=\"updated fade\"><p>Jeni duke përdor versionin e Wordpress"
+
+#: dynamic-wp-greetbox.php:431
+#@ dynamic-wp-greetbox
+msgid "<div class=\"updated fade\"><p>Wp Greetings options have been upgraded.</p></div>"
+msgstr "<div class=\"updated fade\"><p>Opsionet e Wp Greetings u azhornuan.</p></div>"
+
+#: dynamic-wp-greetbox.php:683
+#: dynamic-wp-greetbox.php:722
+#@ dynamic-wp-greetbox
+msgid "Activate"
+msgstr "Aktivizo"
+
+#: dynamic-wp-greetbox.php:688
+#: dynamic-wp-greetbox.php:727
+#@ dynamic-wp-greetbox
+msgid "Deactivate"
+msgstr "C'aktivizo"
+
+#: dynamic-wp-greetbox.php:702
+#: dynamic-wp-greetbox.php:741
+#@ dynamic-wp-greetbox
+msgid "Edit"
+msgstr "Ndrysho"
+
+#: dynamic-wp-greetbox.php:742
+#@ dynamic-wp-greetbox
+msgid "Are you sure you want to delete?"
+msgstr "Jeni i sigurt që doni ta fshini?"
+
+#: dynamic-wp-greetbox.php:742
+#@ dynamic-wp-greetbox
+msgid "Delete"
+msgstr "Fshi"
+
+#: dynamic-wp-greetbox.php:1080
+#@ dynamic-wp-greetbox
+msgid "You were searching for"
+msgstr "Po kërkonit"
+
+#: dynamic-wp-greetbox.php:1081
+#@ dynamic-wp-greetbox
+msgid "Posts relating to"
+msgstr "Artikuj të ngjashëm për"
+
+#: dynamic-wp-greetbox.php:1083
+#@ dynamic-wp-greetbox
+msgid "See posts relating to your search &#187;"
+msgstr "Shiko artikujt e ngjashëm të kërkimit tuaj &#187;"
+
+#: dynamic-wp-greetbox.php:1084
+#@ dynamic-wp-greetbox
+msgid "&#171; Hide related posts"
+msgstr "&#171; Fshih artikujt e ngjashëm"
+
+#: dynamic-wp-greetbox.php:1106
+#@ dynamic-wp-greetbox
+msgid "Powered by Wp Greetings"
+msgstr "Powered by Wp Greetings"
+
+#: dynamic-wp-greetbox.php:1347
+msgid "Permanent Link to:"
+msgstr "Link permanent tek:"
+
+#: dynamic-wp-greetbox.php:1550
+#@ dynamic-wp-greetbox
+msgid "Wp Greetings options updated."
+msgstr "Opsionet e Wp Greetings u azhornuan."
+
+#: dynamic-wp-greetbox.php:1554
+#@ dynamic-wp-greetbox
+msgid "Wp Greetings options upgraded."
+msgstr "Opsionet e Wp Greetings u përditësuan."
+
+#: dynamic-wp-greetbox.php:1558
+#@ dynamic-wp-greetbox
+msgid "Wp Greetings options have been reset."
+msgstr "Opsionet e Wp Greetings u rivendosën."
+
+#: dynamic-wp-greetbox.php:1562
+#@ dynamic-wp-greetbox
+msgid "Wp Greetings options imported."
+msgstr "Opsionet e Wp Greetings u importuan."
+
+#: dynamic-wp-greetbox.php:1566
+#@ dynamic-wp-greetbox
+msgid "Wp Greetings options import failed!"
+msgstr "Nuk ishte e mundur importimi i opsioneve tëi Wp Greetings."
+
+#: dynamic-wp-greetbox.php:1570
+#@ dynamic-wp-greetbox
+msgid "Did not receive any file to be imported.  Wp Greetings options import failed!"
+msgstr "Nuk është marr asnjë dokument për tu importuar. Importi i opsioneve për Wp Greetings dështoi!"
+
+#: dynamic-wp-greetbox.php:1574
+#@ dynamic-wp-greetbox
+msgid "Found syntax errors in file being imported.  Wp Greetings options import failed!"
+msgstr "U gjënd një gabim sintakse në dokumentin e importuar. Importimi i opsioneve të Wp Greetings dështoi!"
+
+#: dynamic-wp-greetbox.php:1663
+#: dynamic-wp-greetbox.php:1699
+#: dynamic-wp-greetbox.php:1730
+#@ dynamic-wp-greetbox
+msgid "Continue to display greeting message until user first closes it (overrides visitor timeout if checked)"
+msgstr "Trego mesazhin e mirëseardhjes gjersa personi nuk do ta mbyll (nëse është aktiv do të mbishkruaj timeout-in për vizitorët)"
+
+#: dynamic-wp-greetbox.php:1664
+#: dynamic-wp-greetbox.php:1700
+#: dynamic-wp-greetbox.php:1732
+#@ dynamic-wp-greetbox
+msgid "Visitor Timeout (minutes)"
+msgstr "Timeout e vizituesit (minuta)"
+
+#: dynamic-wp-greetbox.php:1666
+#: dynamic-wp-greetbox.php:1702
+#: dynamic-wp-greetbox.php:1750
+#@ dynamic-wp-greetbox
+msgid "Greeting Icon (optional)"
+msgstr "Ikona e mirëseardhjes (fakoltative)"
+
+#: dynamic-wp-greetbox.php:1668
+#: dynamic-wp-greetbox.php:1704
+#: dynamic-wp-greetbox.php:1752
+#@ dynamic-wp-greetbox
+msgid "Greeting Icon Link (optional)"
+msgstr "Ikona link e mirëseardhjes (fakoltative)"
+
+#: dynamic-wp-greetbox.php:1670
+#: dynamic-wp-greetbox.php:1706
+#: dynamic-wp-greetbox.php:1754
+#@ dynamic-wp-greetbox
+msgid "Greeting message"
+msgstr "Mesazhi i mirëseardhjes"
+
+#: dynamic-wp-greetbox.php:1674
+#@ dynamic-wp-greetbox
+msgid "Add"
+msgstr "Shto"
+
+#: dynamic-wp-greetbox.php:1675
+#: dynamic-wp-greetbox.php:1710
+#: dynamic-wp-greetbox.php:1758
+#@ dynamic-wp-greetbox
+msgid "Cancel"
+msgstr "Fshi"
+
+#: dynamic-wp-greetbox.php:1696
+#@ dynamic-wp-greetbox
+msgid "Referrer URL"
+msgstr "URL-ja referuese"
+
+#: dynamic-wp-greetbox.php:1709
+#: dynamic-wp-greetbox.php:1757
+#@ dynamic-wp-greetbox
+msgid "Save"
+msgstr "Ruaj"
+
+#: dynamic-wp-greetbox.php:1791
+#@ dynamic-wp-greetbox
+msgid "Wp Greetings Options"
+msgstr "Opsionet e  Wp Greetings"
+
+#: dynamic-wp-greetbox.php:1793
+#@ dynamic-wp-greetbox
+msgid "Greeting Messages"
+msgstr "Mesazhi i mirëseardhjes"
+
+#: dynamic-wp-greetbox.php:1796
+#@ dynamic-wp-greetbox
+msgid "Import/Export"
+msgstr "Importo/Eksporto"
+
+#: dynamic-wp-greetbox.php:1797
+#@ dynamic-wp-greetbox
+msgid "Documentation"
+msgstr "Ndihma"
+
+#: options-generic.php:181
+#: options-generic.php:186
+#@ dynamic-wp-greetbox
+msgid "uncheck for manual insertion"
+msgstr "hiq për vendosje manuale"
+
+#: options-generic.php:226
+#@ dynamic-wp-greetbox
+msgid "Show greeting message to logged in users"
+msgstr "Trego mesazhin e mirëseardhjes tek personat e identifikuar"
+
+#: dynamic-wp-greetbox.php:44
+#@ dynamic-wp-greetbox
+msgid "Wp Greetings  requires WordPress 2.7 or newer. <a href=\"http://codex.wordpress.org/Upgrading_WordPress\">Please update!</a>"
+msgstr "Wp Greetings kërkon Wordpress 2.7 ose më të ri. <a href=\"http://codex.wordpress.org/Upgrading_WordPress\">Ju lutem azhornoni!</a>"
+
+#: dynamic-wp-greetbox.php:425
+#@ dynamic-wp-greetbox
+msgid ".  Wp Greetings recommends that you use WordPress 2.7 or newer.  <a href=\"http://codex.wordpress.org/Upgrading_WordPress\">Please update!</a></p></div>"
+msgstr ".  Wp Greetings ju këshillon që të përdorni WordPress 2.7 ose më të ri.  <a href=\"http://codex.wordpress.org/Upgrading_WordPress\">Ju lutem azhornoni!</a></p></div>"
+

@@ -1,0 +1,433 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: dynamic-wp-greetbox\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-06-09 13:02-0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Lars Mennen <mennen.lars@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: options-custom.php:6
+msgid "Active Greeting Messages"
+msgstr "Actieve begroetings berichten"
+
+#: options-custom.php:9
+#: options-custom.php:43
+msgid "Referrer"
+msgstr "Afkomst"
+
+#: options-custom.php:10
+#: options-custom.php:44
+msgid "Icon"
+msgstr "Icoon"
+
+#: options-custom.php:11
+#: options-custom.php:45
+msgid "Message"
+msgstr "Bericht"
+
+#: options-custom.php:12
+#: options-custom.php:46
+msgid "Action"
+msgstr "Actie"
+
+#: options-custom.php:16
+#: options-custom.php:50
+msgid "Add new greeting message"
+msgstr "Voeg nieuwe begroeting toe"
+
+#: options-custom.php:40
+msgid "Inactive Greeting Messages"
+msgstr "Inactieve begroetings berichten"
+
+#: options-exclude.php:15
+#: dynamic-wp-greetbox.php:1738
+msgid "Exclusion Rules"
+msgstr "Uitsluit regels"
+
+#: options-exclude.php:16
+msgid "List referral URLs that you do not want to show a greeting message to (line delimited)."
+msgstr "Lijst van URLs waar bezoekers van afkomen waarvan u niet wil dat ze een bericht te zien krijgen (1 per regel)."
+
+#: options-exclude.php:18
+msgid "Treat each line as a regular expression"
+msgstr "Behandel iedere regel als reguliere expressie"
+
+#: options-exclude.php:22
+#: options-generic.php:260
+msgid "Update Options"
+msgstr "Update instellingen"
+
+#: options-generic.php:3
+msgid "All of your custom messages will also be reset.  Are you sure you want to reset all settings?"
+msgstr "Al uw zelf gemaakte berichten worden ook gereset. Weet u zeker dat u alles wilt resetten?"
+
+#: options-generic.php:133
+msgid "Hide"
+msgstr "Verberg"
+
+#: options-generic.php:138
+msgid "Show"
+msgstr "Laat zien"
+
+#: options-generic.php:163
+msgid "Support this plugin!"
+msgstr "Ondersteun deze plugin!"
+
+#: options-generic.php:165
+msgid "Display \"Powered by Wp Greetings\" link at the bottom right corner of the greeting message"
+msgstr "Laat de \"Medemogelijk gemaakt door Wp Greetings\" link zien rechtsonder van het begroetings bericht"
+
+#: options-generic.php:169
+msgid "Do not display \"Powered by Wp Greetings\" link.  I will <a href=\"http://111waystomakemoney.com/donate\">donate</a> and/or write about this plugin"
+msgstr "Laat de \"Medemogelijk gemaakt door Wp Greetings\" link niet zien.  Ik zal iets <a href=\"http://111waystomakemoney.com/donate\">doneren</a> en/of schrijven over deze plugin"
+
+#: options-generic.php:172
+#: dynamic-wp-greetbox.php:1739
+msgid "General Configuration"
+msgstr "Algemene configuratie"
+
+#: options-generic.php:174
+msgid "Automatically show greeting message on posts"
+msgstr "Laat automatisch begroetings berichten zien bij Berichten"
+
+#: options-generic.php:176
+#: options-generic.php:181
+msgid "uncheck for"
+msgstr "vink niet aan voor"
+
+#: options-generic.php:176
+#: options-generic.php:181
+msgid "manual insertion"
+msgstr "handmatige invoeging"
+
+#: options-generic.php:179
+msgid "Automatically show greeting message on pages"
+msgstr "Laat automatisch begroetings berichten zien bij Paginas"
+
+#: options-generic.php:183
+msgid "Allow users to close the greeting message"
+msgstr "Sta gebruikers toe het begroetings bericht te sluiten"
+
+#: options-generic.php:184
+msgid "Have icon link open a new browser window (same as target=\"_blank\")"
+msgstr "Laat de icoon link open in een nieuw venster (hetzelfde als target=\"_blank\")"
+
+#: options-generic.php:185
+msgid "Position greeting message"
+msgstr "Positie begroetings bericht"
+
+#: options-generic.php:187
+#: options-generic.php:199
+msgid "before"
+msgstr "voor"
+
+#: options-generic.php:188
+#: options-generic.php:200
+msgid "after"
+msgstr "na"
+
+#: options-generic.php:190
+msgid "the post/page."
+msgstr "het bericht/de pagina."
+
+#: options-generic.php:191
+msgid "Related Post Options"
+msgstr "Gerelateerde berichten instellingen"
+
+#: options-generic.php:193
+msgid "Detect keywords from search engines referrers and display related posts"
+msgstr "Detecteer zoekwoorden van zoekmachine afkomsten en laat gerelateerde berichten zien"
+
+#: options-generic.php:198
+msgid "Position related posts"
+msgstr "Positie gerelateerde berichten"
+
+#: options-generic.php:201
+msgid "the greeting message."
+msgstr "het begroetings bericht."
+
+#: options-generic.php:204
+msgid "Show post excerpt in related posts"
+msgstr "Laat uitreksel zien bij gerelateerde berichten"
+
+#: options-generic.php:207
+msgid "Expand related posts by default"
+msgstr "Open gerelateerde berichten automatisch"
+
+#: options-generic.php:210
+msgid "Limit related posts to "
+msgstr "Limiteer gerelateerde berichten tot"
+
+#: options-generic.php:210
+msgid "posts"
+msgstr "berichten"
+
+#: options-generic.php:212
+msgid "Limit related post excerpts to"
+msgstr "Limiteer gerelateerde bericht uitreksels tot"
+
+#: options-generic.php:212
+msgid "words"
+msgstr "woorden"
+
+#: options-generic.php:216
+#: options-generic.php:268
+msgid "Advanced Options"
+msgstr "Geavanceerde instellingen"
+
+#: options-generic.php:218
+msgid "Enable compatibility with cache plugins"
+msgstr "Activeer compatibiliteit met cache plugins"
+
+#: options-generic.php:218
+msgid "If check, Wp Greetings will use Javascript to load the greeting message"
+msgstr "Als u dit aanvikt, zal Wp Greetings Javascript gebruiken om het begroetings bericht te laden"
+
+#: options-generic.php:221
+#: options-generic.php:224
+msgid "Enable"
+msgstr "Activeer"
+
+#: options-generic.php:221
+msgid "uncheck to manually manage your own CSS"
+msgstr "vink dit niet aan om uw eigen CSS te gebruiken"
+
+#: options-generic.php:224
+msgid "and"
+msgstr "en"
+
+#: options-generic.php:224
+msgid "uncheck to manually manage your own JS"
+msgstr "vink dit niet aan om uw eigen JS te gebruiken"
+
+#: options-generic.php:227
+msgid "Your RSS feed URL. (replaces [[rss-link]] in greeting messages with this)"
+msgstr "Uw RSS Feed URL. (vervangt [[rss-link]] in begroetings berichten met dit)"
+
+#: options-generic.php:231
+msgid "Your \"Subscribe via Email\" URL. (replaces [[email-link]] in greeting messages this)"
+msgstr "Uw \"Abboneer via e-mail\" URL. (vervangt [[email-link]] in begroetings berichten met dit)"
+
+#: options-generic.php:235
+msgid "HTML code to display before the greeting box."
+msgstr "HTML code die weergeven moet worden voor de box van het begroetings bericht."
+
+#: options-generic.php:239
+msgid "HTML code to display after the greeting box."
+msgstr "HTML code die weergeven moet worden na de box van het begroetings bericht."
+
+#: options-generic.php:243
+msgid "HTML code to display before the image in the greeting box."
+msgstr "HTML code die weergeven moet worden afbeelding de afbeelding van het begroetings bericht."
+
+#: options-generic.php:247
+msgid "HTML code to display after the image in the greeting box."
+msgstr "HTML code die weergeven moet worden na de afbeelding van het begroetings bericht."
+
+#: options-generic.php:251
+msgid "HTML code to display before the text in the greeting box."
+msgstr "HTML code die weergeven moet worden voor de tekst van het begroetings bericht."
+
+#: options-generic.php:255
+msgid "HTML code to display after the text in the greeting box."
+msgstr "HTML code die weergeven moet worden na de tekst van het begroetings bericht."
+
+#: options-generic.php:264
+msgid "Upgrade Options"
+msgstr "Upgrade instellingen"
+
+#: options-generic.php:267
+msgid "Reset ALL Options"
+msgstr "Reset ALLE instellingen"
+
+#: options-import-export.php:3
+msgid "All of your current Wp Greetings options will be overwritten by the imported value.  Are you sure you want to overwrite all settings?"
+msgstr "Al uw Wp Greetings instellingen zullen overschreven worden. Weet u zeker dat u alle instellingen wil overschrijven?"
+
+#: options-import-export.php:12
+msgid "Export"
+msgstr "Exporteren"
+
+#: options-import-export.php:15
+msgid "This functionality will dump your entire Wp Greetings options into a file."
+msgstr "Deze functie zal al uw Wp Greetings instellingen exporteren naar een bestand."
+
+#: options-import-export.php:17
+msgid "Export Options"
+msgstr "Exporteer instellingen"
+
+#: options-import-export.php:21
+msgid "Import"
+msgstr "Importeren"
+
+#: options-import-export.php:27
+msgid "This functionality will restore your entire Wp Greetings options from a file.<br/><strong>Make sure you've done an export and backup the exported file before you try this!</strong>"
+msgstr "Deze functie zal uw Wp Greetings instellingen importeren vanuit een bestand.</br><strong>Verzeker u ervan dat u uw huidige instellingen hebt geëxporteerd en gebackupt voordat u dit probeert!</strong>"
+
+#: options-import-export.php:33
+msgid "Import Options"
+msgstr "Importeer instellingen"
+
+#: dynamic-wp-greetbox.php:52
+msgid "Wp Greetings requires WordPress 2.6 or newer. <a href=\"http://codex.wordpress.org/Upgrading_WordPress\">Please update!</a>"
+msgstr "Wp Greetings werk alleen op WordPress 2.6 of nieuwer. <a href=\"http://codex.wordpress.org/Upgrading_WordPress\">Update alstublieft eerst!</a>"
+
+#: dynamic-wp-greetbox.php:411
+msgid "<div class=\"updated fade\"><p>You are using WordPress version "
+msgstr "<div class=\"updated fade\"><p>U gebruikt WordPress versie "
+
+#: dynamic-wp-greetbox.php:413
+msgid ".  Wp Greetings recommends that you use WordPress 2.6 or newer.  <a href=\"http://codex.wordpress.org/Upgrading_WordPress\">Please update!</a></p></div>"
+msgstr ".  Wp Greetings beveelt u aan om WordPress 2.6 of nieuwer te gebruiken.  <a href=\"http://codex.wordpress.org/Upgrading_WordPress\">Update alstublieft eerst!</a></p></div>"
+
+#: dynamic-wp-greetbox.php:419
+msgid "<div class=\"updated fade\"><p>Wp Greetings options have been upgraded.</p></div>"
+msgstr "<div class=\"updated fade\"><p>Wp Greetings instellingen zijn upgegraded.</p></div>"
+
+#: dynamic-wp-greetbox.php:662
+#: dynamic-wp-greetbox.php:701
+msgid "Activate"
+msgstr "Activeer"
+
+#: dynamic-wp-greetbox.php:667
+#: dynamic-wp-greetbox.php:706
+msgid "Deactivate"
+msgstr "Deactiveer"
+
+#: dynamic-wp-greetbox.php:681
+#: dynamic-wp-greetbox.php:720
+msgid "Edit"
+msgstr "Bewerk"
+
+#: dynamic-wp-greetbox.php:721
+msgid "Are you sure you want to delete?"
+msgstr "Weet u zeker dat u dit wil verwijderen?"
+
+#: dynamic-wp-greetbox.php:721
+msgid "Delete"
+msgstr "Verwijderen"
+
+#: dynamic-wp-greetbox.php:1051
+msgid "You were searching for"
+msgstr "U was bezig met zoeken naar"
+
+#: dynamic-wp-greetbox.php:1052
+msgid "Posts relating to"
+msgstr "Berichten gerelateerd aan"
+
+#: dynamic-wp-greetbox.php:1054
+msgid "See posts relating to your search &#187;"
+msgstr "Bekijk berichten gerelateerd aan uw zoek opdracht &#187;"
+
+#: dynamic-wp-greetbox.php:1055
+msgid "&#171; Hide related posts"
+msgstr "&#171; Verberg gerelateerde berichten"
+
+#: dynamic-wp-greetbox.php:1077
+msgid "Powered by Wp Greetings"
+msgstr "Medemogelijk gemaakt door Wp Greetings"
+
+#: dynamic-wp-greetbox.php:1311
+msgid "Permanent Link to:"
+msgstr "Permanente link naar:"
+
+#: dynamic-wp-greetbox.php:1494
+msgid "Wp Greetings options updated."
+msgstr "Wp Greetings instellingen geupdate."
+
+#: dynamic-wp-greetbox.php:1498
+msgid "Wp Greetings options upgraded."
+msgstr "Wp Greetings instellingen geupgrade."
+
+#: dynamic-wp-greetbox.php:1502
+msgid "Wp Greetings options have been reset."
+msgstr "Wp Greetings instellingen zijn gereset."
+
+#: dynamic-wp-greetbox.php:1506
+msgid "Wp Greetings options imported."
+msgstr "Wp Greetings instellingen geïmporteerd."
+
+#: dynamic-wp-greetbox.php:1510
+msgid "Wp Greetings options import failed!"
+msgstr "Wp Greetings instellingen importeren mislukt!"
+
+#: dynamic-wp-greetbox.php:1514
+msgid "Did not receive any file to be imported.  Wp Greetings options import failed!"
+msgstr "Er is geen bestand ontvangen om te importeren. Wp Greetings instellingen importeren mislukt!"
+
+#: dynamic-wp-greetbox.php:1518
+msgid "Found syntax errors in file being imported.  Wp Greetings options import failed!"
+msgstr "Syntax fouten gevonden in het te importeren bestand. Wp Greetings instellingen importeren mislukt!"
+
+#: dynamic-wp-greetbox.php:1607
+#: dynamic-wp-greetbox.php:1643
+#: dynamic-wp-greetbox.php:1674
+msgid "Continue to display greeting message until user first closes it (overrides visitor timeout if checked)"
+msgstr "Laat het begroetings bericht zien totdat de gebruiker deze sluit (overschrijft bezoekers time-out als dit is aangevinkt)"
+
+#: dynamic-wp-greetbox.php:1608
+#: dynamic-wp-greetbox.php:1644
+#: dynamic-wp-greetbox.php:1676
+msgid "Visitor Timeout (minutes)"
+msgstr "Bezoekers time-out (minuten)"
+
+#: dynamic-wp-greetbox.php:1610
+#: dynamic-wp-greetbox.php:1646
+#: dynamic-wp-greetbox.php:1694
+msgid "Greeting Icon (optional)"
+msgstr "Begroetings icoon (optioneel)"
+
+#: dynamic-wp-greetbox.php:1612
+#: dynamic-wp-greetbox.php:1648
+#: dynamic-wp-greetbox.php:1696
+msgid "Greeting Icon Link (optional)"
+msgstr "Begroetings icoon link (optioneel)"
+
+#: dynamic-wp-greetbox.php:1614
+#: dynamic-wp-greetbox.php:1650
+#: dynamic-wp-greetbox.php:1698
+msgid "Greeting message"
+msgstr "Begroetings bericht"
+
+#: dynamic-wp-greetbox.php:1618
+msgid "Add"
+msgstr "Voeg toe"
+
+#: dynamic-wp-greetbox.php:1619
+#: dynamic-wp-greetbox.php:1654
+#: dynamic-wp-greetbox.php:1702
+msgid "Cancel"
+msgstr "Annuleer"
+
+#: dynamic-wp-greetbox.php:1640
+msgid "Referrer URL"
+msgstr "URL van afkomst"
+
+#: dynamic-wp-greetbox.php:1653
+#: dynamic-wp-greetbox.php:1701
+msgid "Save"
+msgstr "Opslaan"
+
+#: dynamic-wp-greetbox.php:1735
+msgid "Wp Greetings Options"
+msgstr "Wp Greetings Instellingen"
+
+#: dynamic-wp-greetbox.php:1737
+msgid "Greeting Messages"
+msgstr "Begroetings berichten"
+
+#: dynamic-wp-greetbox.php:1740
+msgid "Import/Export"
+msgstr "Importeer/Exporteer"
+
+#: dynamic-wp-greetbox.php:1741
+msgid "Documentation"
+msgstr "Documentatie"
+

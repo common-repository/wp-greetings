@@ -1,0 +1,594 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Wp Greetings em Português do Brasil\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-07-18 18:18-0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Isaac Ribeiro <webmaster@isaacribeiro.com.br>\n"
+"Language-Team: Isaac Ribeiro <webmaster@isaacribeiro.com.br>\n"
+"MIME-Version: 1.0.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: Portuguese\n"
+"X-Poedit-Country: BRAZIL\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: .\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#@ dynamic-wp-greetbox
+#: includes/admin/custom.php:4
+msgid "Active Greeting Messages"
+msgstr "Ativar mensagens de saudação"
+
+#@ dynamic-wp-greetbox
+#: includes/admin/custom.php:7
+#: includes/admin/custom.php:41
+msgid "Referrer"
+msgstr "Referência"
+
+#@ dynamic-wp-greetbox
+#: includes/admin/custom.php:8
+#: includes/admin/custom.php:42
+msgid "Icon"
+msgstr "Ícone"
+
+#@ dynamic-wp-greetbox
+#: includes/admin/custom.php:9
+#: includes/admin/custom.php:43
+msgid "Message"
+msgstr "Mensagem"
+
+#@ dynamic-wp-greetbox
+#: includes/admin/custom.php:10
+#: includes/admin/custom.php:44
+msgid "Action"
+msgstr "Ação"
+
+#@ dynamic-wp-greetbox
+#: includes/admin/custom.php:14
+#: includes/admin/custom.php:48
+msgid "Add new greeting message"
+msgstr "Adicionar nova mensagem de saudação"
+
+#@ dynamic-wp-greetbox
+#: includes/admin/custom.php:38
+msgid "Inactive Greeting Messages"
+msgstr "Desativar mensagens de saudação"
+
+#@ dynamic-wp-greetbox
+#: includes/admin/exclude.php:3
+#: includes/admin/header.php:6
+msgid "Exclusion Rules"
+msgstr "Regras de exclusão"
+
+#@ dynamic-wp-greetbox
+#: includes/admin/exclude.php:6
+msgid "List referral URLs that you do not want to show a greeting message to (line delimited)."
+msgstr "Liste as URLs de referência nas quais você não quer mostrar uma mensagem de saudação (linha delimitada)."
+
+#@ dynamic-wp-greetbox
+#: includes/admin/exclude.php:11
+msgid "Treat each line as a regular expression"
+msgstr "Trate cada linha como uma expressão regular"
+
+#@ dynamic-wp-greetbox
+#: includes/admin/exclude.php:16
+#: includes/admin/generic.php:267
+msgid "Update Options"
+msgstr "Atualizar opções"
+
+#@ dynamic-wp-greetbox
+#: includes/admin/generic.php:3
+msgid "All of your custom messages will also be reset.  Are you sure you want to reset all settings?"
+msgstr "Todas as suas mensagens personalizadas também serão redefinidas. Tem certeza de que deseja redefinir todas as configurações?"
+
+#@ dynamic-wp-greetbox
+#: includes/admin/generic.php:90
+msgid "Hide"
+msgstr "Ocultar"
+
+#@ dynamic-wp-greetbox
+#: includes/admin/generic.php:95
+msgid "Show"
+msgstr "Mostrar"
+
+#@ dynamic-wp-greetbox
+#: includes/admin/generic.php:103
+msgid "Support this plugin!"
+msgstr "Apoie este plugin!"
+
+#@ dynamic-wp-greetbox
+#: includes/admin/generic.php:115
+#: includes/admin/header.php:8
+msgid "General Configuration"
+msgstr "Configurações gerais"
+
+#@ dynamic-wp-greetbox
+#: includes/admin/generic.php:130
+msgid "Automatically show greeting message on posts"
+msgstr "Automaticamente mostrar a mensagem de saudação nos tópicos"
+
+#@ dynamic-wp-greetbox
+#: includes/admin/generic.php:132
+#: includes/admin/generic.php:138
+msgid "uncheck for manual insertion"
+msgstr "desmarque para inserção manual"
+
+#@ dynamic-wp-greetbox
+#: includes/admin/generic.php:136
+msgid "Automatically show greeting message on pages"
+msgstr "Automaticamente mostrar a mensagem de saudação nas páginas"
+
+#@ dynamic-wp-greetbox
+#: includes/admin/generic.php:142
+msgid "Allow users to close the greeting message"
+msgstr "Permitir que usuários fechem a mensagem de saudação"
+
+#@ dynamic-wp-greetbox
+#: includes/admin/generic.php:152
+msgid "Position greeting message"
+msgstr "Posição da mensagem de saudação"
+
+#@ dynamic-wp-greetbox
+#: includes/admin/generic.php:154
+#: includes/admin/generic.php:172
+msgid "before"
+msgstr "antes"
+
+#@ dynamic-wp-greetbox
+#: includes/admin/generic.php:155
+#: includes/admin/generic.php:173
+msgid "after"
+msgstr "depois"
+
+#@ dynamic-wp-greetbox
+#: includes/admin/generic.php:157
+msgid "the post/page."
+msgstr "do tópico/página"
+
+#@ dynamic-wp-greetbox
+#: includes/admin/generic.php:160
+msgid "Related Post Options"
+msgstr "Opções de tópicos relacionados"
+
+#@ dynamic-wp-greetbox
+#: includes/admin/generic.php:163
+msgid "Detect keywords from search engines referrers and display related posts"
+msgstr "Detecte palavras-chave referidas nos mecanismos de busca e exiba tópicos relacionados"
+
+#@ dynamic-wp-greetbox
+#: includes/admin/generic.php:170
+msgid "Position related posts"
+msgstr "Posição dos tópicos relacionados"
+
+#@ dynamic-wp-greetbox
+#: includes/admin/generic.php:174
+msgid "the greeting message."
+msgstr "a mensagem de saudação."
+
+#@ dynamic-wp-greetbox
+#: includes/admin/generic.php:178
+msgid "Show post excerpt in related posts"
+msgstr "Mostrar o resumo do tópico em tópicos relacionados"
+
+#@ dynamic-wp-greetbox
+#: includes/admin/generic.php:183
+msgid "Expand related posts by default"
+msgstr "Expandir tópicos relacionados por padrão"
+
+#@ dynamic-wp-greetbox
+#: includes/admin/generic.php:199
+#: includes/admin/generic.php:272
+msgid "Advanced Options"
+msgstr "Opções avançadas"
+
+#@ dynamic-wp-greetbox
+#: includes/admin/generic.php:202
+msgid "Enable compatibility with cache plugins"
+msgstr "Ativar compatibilidade com plugins de cache"
+
+#@ dynamic-wp-greetbox
+#: includes/admin/generic.php:203
+msgid "If check, Wp Greetings will use Javascript to load the greeting message"
+msgstr "se marcada, o Wp Greetings irá utilizar Javascript para carregar a mensagem de saudação"
+
+#@ dynamic-wp-greetbox
+#: includes/admin/generic.php:207
+msgid "Show greeting message to logged in users"
+msgstr "Mostrar mensagem de saudação para usuários logados"
+
+#@ dynamic-wp-greetbox
+#: includes/admin/generic.php:218
+msgid "uncheck to manually manage your own CSS"
+msgstr "desmarque para gerenciar manualmente seu próprio CSS"
+
+#@ dynamic-wp-greetbox
+#: includes/admin/generic.php:223
+msgid "uncheck to manually manage your own JS"
+msgstr "desmarque para gerenciar manualmente seu próprio JS"
+
+#@ dynamic-wp-greetbox
+#: includes/admin/generic.php:227
+msgid "Your RSS feed URL. (replaces [[rss-link]] in greeting messages with this)"
+msgstr "URL do seu feed RSS. (substitui o [[rss-link]] na mensagem de saudação por isto)"
+
+#@ dynamic-wp-greetbox
+#: includes/admin/generic.php:237
+msgid "HTML code to display before the greeting box."
+msgstr "Código HTML para exibir antes da caixa de saudação."
+
+#@ dynamic-wp-greetbox
+#: includes/admin/generic.php:242
+msgid "HTML code to display after the greeting box."
+msgstr "Código HTML para exibir após a caixa de saudação."
+
+#@ dynamic-wp-greetbox
+#: includes/admin/generic.php:246
+msgid "HTML code to display before the image in the greeting box."
+msgstr "Código HTML para exibir antes da imagem na caixa de saudação."
+
+#@ dynamic-wp-greetbox
+#: includes/admin/generic.php:251
+msgid "HTML code to display after the image in the greeting box."
+msgstr "Código HTML para exibir após a imagem na caixa de saudação."
+
+#@ dynamic-wp-greetbox
+#: includes/admin/generic.php:256
+msgid "HTML code to display before the text in the greeting box."
+msgstr "Código HTML para exibir antes do texto na caixa de saudação."
+
+#@ dynamic-wp-greetbox
+#: includes/admin/generic.php:260
+msgid "HTML code to display after the text in the greeting box."
+msgstr "Código HTML para exibir após o texto na caixa de saudação."
+
+#@ dynamic-wp-greetbox
+#: includes/admin/generic.php:269
+msgid "Upgrade Options"
+msgstr "Opções de melhorias"
+
+#@ dynamic-wp-greetbox
+#: includes/admin/generic.php:271
+msgid "Reset ALL Options"
+msgstr "Redefinir TODAS as opções"
+
+#@ dynamic-wp-greetbox
+#: includes/admin/import-export.php:3
+msgid "All of your current Wp Greetings options will be overwritten by the imported value.  Are you sure you want to overwrite all settings?"
+msgstr "Todas as suas atuais opções do Wp Greetings serão sobrescritas pelos valor importado. Tem certeza de que deseja sobrescrever todas as configurações?"
+
+#@ dynamic-wp-greetbox
+#: includes/admin/import-export.php:10
+msgid "Export"
+msgstr "Exportar"
+
+#@ dynamic-wp-greetbox
+#: includes/admin/import-export.php:12
+msgid "This functionality will dump your entire Wp Greetings options into a file."
+msgstr "Esta funcionalidade armazenará todas as suas preferências do Wp Greetings em um arquivo para você salvar em seu computador."
+
+#@ dynamic-wp-greetbox
+#: includes/admin/import-export.php:14
+msgid "Export Options"
+msgstr "Exportar preferências"
+
+#@ dynamic-wp-greetbox
+#: includes/admin/import-export.php:17
+msgid "Import"
+msgstr "Importar"
+
+#@ dynamic-wp-greetbox
+#: includes/admin/import-export.php:27
+msgid "Import Options"
+msgstr "Importar preferências"
+
+#@ dynamic-wp-greetbox
+#: includes/admin/custom-default-row.php:12
+#: includes/admin/custom-message-row.php:4
+msgid "Activate"
+msgstr "Ativar"
+
+#@ dynamic-wp-greetbox
+#: includes/admin/custom-default-row.php:16
+#: includes/admin/custom-message-row.php:8
+msgid "Deactivate"
+msgstr "Desativar"
+
+#@ dynamic-wp-greetbox
+#: includes/admin/custom-default-row.php:31
+#: includes/admin/custom-message-row.php:23
+msgid "Edit"
+msgstr "Editar"
+
+#@ dynamic-wp-greetbox
+#: includes/admin/custom-message-row.php:24
+msgid "Are you sure you want to delete?"
+msgstr "Tem certeza de que deseja excluir?"
+
+#@ dynamic-wp-greetbox
+#: includes/admin/custom-message-row.php:24
+msgid "Delete"
+msgstr "Excluir"
+
+#@ dynamic-wp-greetbox
+#: includes/dynamic-wp-greetbox.class.php:171
+msgid "You were searching for"
+msgstr "Você estava procurando por"
+
+#@ dynamic-wp-greetbox
+#: includes/dynamic-wp-greetbox.class.php:172
+msgid "Posts relating to"
+msgstr "Tópicos relacionados"
+
+#@ dynamic-wp-greetbox
+#: includes/dynamic-wp-greetbox.class.php:448
+msgid "Permanent Link to:"
+msgstr "Link permanente:"
+
+#@ dynamic-wp-greetbox
+#: includes/admin/custom-add-form.php:14
+#: includes/admin/custom-edit-form-default.php:16
+#: includes/admin/custom-edit-form.php:8
+msgid "Continue to display greeting message until user first closes it (overrides visitor timeout if checked)"
+msgstr "Continue exibindo a mensagem de saudação até que o usuário feche-a pela primeira vez (se marcada, anula o intervalo de tempo)"
+
+#@ dynamic-wp-greetbox
+#: includes/admin/custom-add-form.php:15
+#: includes/admin/custom-edit-form-default.php:17
+#: includes/admin/custom-edit-form.php:9
+msgid "Visitor Timeout (minutes)"
+msgstr "Intervalo de visita (minutos)"
+
+#@ dynamic-wp-greetbox
+#: includes/admin/custom-add-form.php:17
+#: includes/admin/custom-edit-form-default.php:20
+#: includes/admin/custom-edit-form.php:11
+msgid "Greeting Icon (optional)"
+msgstr "Ícone da saudação (opcional)"
+
+#@ dynamic-wp-greetbox
+#: includes/admin/custom-add-form.php:19
+#: includes/admin/custom-edit-form-default.php:22
+#: includes/admin/custom-edit-form.php:13
+msgid "Greeting Icon Link (optional)"
+msgstr "Link no ícone da saudação (opcional)"
+
+#@ dynamic-wp-greetbox
+#: includes/admin/custom-add-form.php:21
+#: includes/admin/custom-edit-form-default.php:24
+#: includes/admin/custom-edit-form.php:15
+msgid "Greeting message"
+msgstr "Mensagem de saudação"
+
+#@ dynamic-wp-greetbox
+#: includes/admin/custom-add-form.php:25
+msgid "Add"
+msgstr "Adicionar"
+
+#@ dynamic-wp-greetbox
+#: includes/admin/custom-add-form.php:26
+#: includes/admin/custom-edit-form-default.php:28
+#: includes/admin/custom-edit-form.php:20
+msgid "Cancel"
+msgstr "Cancelar"
+
+#@ dynamic-wp-greetbox
+#: includes/admin/custom-add-form.php:12
+#: includes/admin/custom-edit-form.php:6
+msgid "Referrer URL"
+msgstr "URL de referência"
+
+#@ dynamic-wp-greetbox
+#: includes/admin/custom-edit-form-default.php:27
+#: includes/admin/custom-edit-form.php:19
+msgid "Save"
+msgstr "Salvar"
+
+#@ dynamic-wp-greetbox
+#: includes/admin/header.php:4
+msgid "Greeting Messages"
+msgstr "Mensagens de saudação"
+
+#@ dynamic-wp-greetbox
+#: includes/admin/header.php:10
+msgid "Import/Export"
+msgstr "Importar/Exportar"
+
+#@ dynamic-wp-greetbox
+#: includes/admin/header.php:12
+msgid "Documentation"
+msgstr "Documentação"
+
+#@ dynamic-wp-greetbox
+#: includes/admin/custom-default-row.php:25
+msgid "RSS icon"
+msgstr "ícone RSS"
+
+#@ dynamic-wp-greetbox
+#: includes/admin/custom-default-row.php:29
+#: includes/admin/custom-message-row.php:21
+msgid "loading..."
+msgstr "carregando..."
+
+#@ dynamic-wp-greetbox
+#: includes/admin/generic.php:106
+msgid "Display 'Powered by Wp Greetings' link at the bottom right corner of the greeting message"
+msgstr "Exibir o link 'Powered by Wp Greetings' no canto inferior direito da mensagem de saudação"
+
+#@ dynamic-wp-greetbox
+#: includes/admin/generic.php:111
+#, php-format
+msgid "Do not display 'Powered by Wp Greetings' link.  I will %sdonate%s and/or write about this plugin"
+msgstr "Não exibir o link 'Powered by Wp Greetings'. Eu irei %sfazer uma doação%s e/ou escrever sobre este plugin"
+
+#@ dynamic-wp-greetbox
+#: includes/admin/generic.php:118
+msgid "Enable rounded corners"
+msgstr "Ativar cantos arredondados"
+
+#@ dynamic-wp-greetbox
+#: includes/admin/generic.php:120
+#: includes/admin/generic.php:126
+msgid "CSS3 browsers only"
+msgstr "somente navegadores CSS3"
+
+#@ dynamic-wp-greetbox
+#: includes/admin/generic.php:124
+msgid "Enable drop shadow"
+msgstr "Ativar sombra"
+
+#@ dynamic-wp-greetbox
+#: includes/admin/generic.php:147
+msgid "Have icon link open a new browser window (same as target='_blank')"
+msgstr "Faça o link do ícone abrir em uma nova janela do navegador (tal como a target='_blank')"
+
+#@ dynamic-wp-greetbox
+#: includes/admin/generic.php:188
+#, php-format
+msgid "Limit related posts to %s posts"
+msgstr "Limite o número de tópicos relacionados em %s tópicos"
+
+#@ dynamic-wp-greetbox
+#: includes/admin/generic.php:192
+#, php-format
+msgid "Limit related post excerpts to %s words"
+msgstr "Limite o resumo de tópico relacionado em %s palavras"
+
+#@ dynamic-wp-greetbox
+#: includes/admin/generic.php:212
+msgid "Debug mode"
+msgstr "Modo de depuração"
+
+#@ dynamic-wp-greetbox
+#: includes/admin/generic.php:213
+msgid "Will always show greet box regardless of settings"
+msgstr "sempre mostrar a caixa de saudação apesar das configurações"
+
+#@ dynamic-wp-greetbox
+#: includes/admin/generic.php:217
+#, php-format
+msgid "Enable %s"
+msgstr "Ativar %s"
+
+#@ dynamic-wp-greetbox
+#: includes/admin/generic.php:222
+#, php-format
+msgid "Enable %s and %s"
+msgstr "Ativar %s e %s"
+
+#@ dynamic-wp-greetbox
+#: includes/admin/generic.php:232
+msgid "Your 'Subscribe via Email' URL. (replaces [[email-link]] in greeting messages this)"
+msgstr "URL do seu 'Assinar via E-mail'. (substitui o [[email-link]] na mensagem de saudação por isto)"
+
+#@ dynamic-wp-greetbox
+#: includes/admin/header.php:2
+#, php-format
+msgid "%s Options"
+msgstr "%s Opções"
+
+#@ dynamic-wp-greetbox
+#: includes/admin/import-export.php:21
+msgid "This functionality will restore your entire Wp Greetings options from a file."
+msgstr "Esta funcionalidade irá restaurar todas as suas preferências do Wp Greetings de um arquivo salvo anteriormente."
+
+#@ dynamic-wp-greetbox
+#: includes/admin/import-export.php:22
+msgid "Make sure you've done an export and backup the exported file before you try this!"
+msgstr "Certifique-se de que você fez uma exportação e copiou o arquivo exportado antes de tentar isto!"
+
+#@ dynamic-wp-greetbox
+#: includes/admin/post-options.php:9
+msgid "Disable Wp Greetings on this post/page?"
+msgstr "Desativar Wp Greetings em tópicos/páginas?"
+
+#@ dynamic-wp-greetbox
+#: includes/common.class.php:76
+#, php-format
+msgid "You are using WordPress version %s."
+msgstr "Você está usando a versão WordPress %s."
+
+#@ dynamic-wp-greetbox
+#: includes/common.class.php:77
+#, php-format
+msgid "%s recommends that you use WordPress %s or newer."
+msgstr "%s recomenda que você use o WordPress %s ou superior."
+
+#@ dynamic-wp-greetbox
+#: includes/common.class.php:80
+#, php-format
+msgid "%sPlease update!%s"
+msgstr "%sPor favor, atualize!%s"
+
+#@ dynamic-wp-greetbox
+#: includes/common.class.php:87
+#, php-format
+msgid "%s options has been updated."
+msgstr "Opções do %s atualizadas."
+
+#@ dynamic-wp-greetbox
+#: includes/common.class.php:93
+#, php-format
+msgid "%s options has been upgraded."
+msgstr "Opções do %s melhoradas."
+
+#@ dynamic-wp-greetbox
+#: includes/common.class.php:100
+msgid "Some option settings were missing (possibly from plugin upgrade)."
+msgstr "Algumas opções de configuração foram perdidas (possivelmente por atualizar o plugin)."
+
+#@ dynamic-wp-greetbox
+#: includes/common.class.php:105
+#, php-format
+msgid "%s options has been reset."
+msgstr "Opções do %s foram redefinidas."
+
+#@ dynamic-wp-greetbox
+#: includes/common.class.php:111
+#, php-format
+msgid "%s cache has been cleared."
+msgstr "Cache do %s foi apagado."
+
+#@ dynamic-wp-greetbox
+#: includes/common.class.php:117
+#, php-format
+msgid "%s options imported."
+msgstr "Opções do %s importadas."
+
+#@ dynamic-wp-greetbox
+#: includes/common.class.php:123
+#, php-format
+msgid "%s options import failed!"
+msgstr "Falha ao importar as opções do %s!"
+
+#@ dynamic-wp-greetbox
+#: includes/common.class.php:129
+#, php-format
+msgid "Did not receive any file to be imported. %s options import failed!"
+msgstr "Nenhum arquivo recebido foi importado. A importação das opções do %s falhou!"
+
+#@ dynamic-wp-greetbox
+#: includes/common.class.php:135
+#, php-format
+msgid "Found syntax errors in file being imported. %s options import failed!"
+msgstr "Encontrado erro de sintaxe no arquivo importado. A importação das opções do %s falhou."
+
+#@ dynamic-wp-greetbox
+#: includes/dynamic-wp-greetbox.class.php:174
+msgid "See posts relating to your search"
+msgstr "Veja tópicos relativos a sua pesquisa"
+
+#@ dynamic-wp-greetbox
+#: includes/dynamic-wp-greetbox.class.php:175
+msgid "Hide related posts"
+msgstr "Ocultar tópicos relacionados"
+
+#@ dynamic-wp-greetbox
+#: includes/dynamic-wp-greetbox.class.php:213
+#, php-format
+msgid "Powered by %sWp Greetings%s %sWordPress Plugin%s"
+msgstr "Powered by %sWp Greetings%s %sWordPress Plugin%s"
+
